@@ -34,6 +34,8 @@ The current version of this package uses :
 * wordpress-6.7.1
 * sqlite-database-integration 2.1.15
 
+I will attempt to keep this relatively up to date.
+
 ## Licences
 
 Refer to licencing of the three dependencies, PHP, WordPress and the SQLite Database Integration plug-in.
